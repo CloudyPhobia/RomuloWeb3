@@ -1,0 +1,70 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Delius+Unicase:wght@400;700&family=Pacifico&display=swap');
+img
+{
+    width: 300px;
+    height: 200px;
+}
+body{
+    background-color: #e1cac0;
+    padding-top: 100px;
+    text-align: center;
+}
+.menu
+{
+    background-color: #5943b1;
+    font-size: 30px;
+    position: fixed;
+    top: 0%;
+    width: 98%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+a{
+    color: aliceblue;
+    padding-left: 38px;
+    text-decoration: none;
+    font-family: cursive;
+}
+a:hover
+{
+    font-size: 35px;
+    color: rgb(245, 249, 195);
+}
+#Rom
+{
+    font-family: "Cookie", cursive;
+    font-size: 40px;
+}
+.contenedor
+{
+    display: flex;
+    justify-content: space-around;
+}
+li{
+    text-align: left;
+}
+#Con1
+{
+    background-color: #d394b3;
+}
+#Con2
+{
+    background-color: #d394b3;
+}
+#Con3
+{
+    background-color: #d394b3;
+}
+#Con4
+{
+    background-color: #d394b3;
+}
+h2{
+    font-family: "Delius Unicase", cursive;
+}
+section
+{
+    padding-bottom: 40px;
+}
